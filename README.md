@@ -7,4 +7,5 @@
 
  ![diagram of device](IoTPhoto.png)
 
-l
+LM335Z Temperature Sensor 
+Small Light Dependent Resistor (LDR)
